@@ -1,0 +1,25 @@
+* {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+.bg-grey {
+  background-color: rgb(220, 229, 239);
+}
+
+.bg-violet {
+  background-color: hsl(263deg, 55%, 52%);
+}
+
+.bg-grayish {
+  background-color: hsl(217deg, 19%, 35%);
+}
+
+.bg-blackish {
+  background-color: hsl(219deg, 29%, 14%);
+}
+
+@media screen and (min-width: 992px) {
+  div.mt-n5 {
+    margin-top: -50vh;
+  }
+}/*# sourceMappingURL=style.css.map */
